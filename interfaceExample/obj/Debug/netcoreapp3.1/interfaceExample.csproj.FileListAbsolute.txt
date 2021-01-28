@@ -1,0 +1,13 @@
+C:\Users\Matt\source\repos\interfaceExample\interfaceExample\bin\Debug\netcoreapp3.1\interfaceExample.exe
+C:\Users\Matt\source\repos\interfaceExample\interfaceExample\bin\Debug\netcoreapp3.1\interfaceExample.deps.json
+C:\Users\Matt\source\repos\interfaceExample\interfaceExample\bin\Debug\netcoreapp3.1\interfaceExample.runtimeconfig.json
+C:\Users\Matt\source\repos\interfaceExample\interfaceExample\bin\Debug\netcoreapp3.1\interfaceExample.runtimeconfig.dev.json
+C:\Users\Matt\source\repos\interfaceExample\interfaceExample\bin\Debug\netcoreapp3.1\interfaceExample.dll
+C:\Users\Matt\source\repos\interfaceExample\interfaceExample\bin\Debug\netcoreapp3.1\interfaceExample.pdb
+C:\Users\Matt\source\repos\interfaceExample\interfaceExample\obj\Debug\netcoreapp3.1\interfaceExample.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\interfaceExample\interfaceExample\obj\Debug\netcoreapp3.1\interfaceExample.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\interfaceExample\interfaceExample\obj\Debug\netcoreapp3.1\interfaceExample.AssemblyInfo.cs
+C:\Users\Matt\source\repos\interfaceExample\interfaceExample\obj\Debug\netcoreapp3.1\interfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\interfaceExample\interfaceExample\obj\Debug\netcoreapp3.1\interfaceExample.dll
+C:\Users\Matt\source\repos\interfaceExample\interfaceExample\obj\Debug\netcoreapp3.1\interfaceExample.pdb
+C:\Users\Matt\source\repos\interfaceExample\interfaceExample\obj\Debug\netcoreapp3.1\interfaceExample.genruntimeconfig.cache
